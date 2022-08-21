@@ -11,7 +11,7 @@ Thank you for visiting our full stack project. The code is written in Java(Sprin
 ## About
 ### 01.Java Program to find duplicate elements in an Array
 This repository contains introductory projects for higher-level programming. Topics include:
-```
+```Java
     public class DuplicateElement {
     /*
         01.Java Program to find duplicate elements in an Array
@@ -33,7 +33,7 @@ This repository contains introductory projects for higher-level programming. Top
 ```
 ## FindLargestandsmallest
 ### 02.Find largest and smallest number in the given Array
-```
+```Java
 public class findLargestAndSmallest {
         /*
            02.Find largest and smallest number in the given Array
